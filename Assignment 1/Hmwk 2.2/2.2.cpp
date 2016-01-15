@@ -10,8 +10,8 @@ int main()
     
     result = totalSales*salesPercent;
     
-    cout << "When the company generates $" << totalSales << endl;
-    cout << "in sales this year, the East Coast" << endl;
+    cout << "When the company generates $" << totalSales;
+    cout << "in sales this year, the East Coast";
     cout << "division will generate $"<< result <<endl;
     return 0;
 }
